@@ -5,6 +5,7 @@ It was born to gather the finest european web developers under the same digital 
 Whenever a paid solution is needed to be proposed, it's mandatory to give any details as clearly as possible.
 
 As for any community, EWD has a clear ruleset that members need to comply with. Breaking any of those rules may result in a temporary or permanent ban from the group.
+Please note that any member should be resident inside the european geographical border.
 
 
 ## No Slander
